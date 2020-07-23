@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋, I'm Mine ÇAKIR</h2>
-<h3 align="center">I am a computer engineering student at Eskisehir Osmangazi University</h3>
-<h3 align="center"> <a href="http://bbtk.ogu.edu.tr">Computer and Information Technology Club</a></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minecakir" alt="minecakir" /> </p>
+<h2 align="left">Hi 👋, I'm Mine ÇAKIR</h2>
+<h3 align="left">I am a computer engineering student at Eskisehir Osmangazi University</h3>
+<h3 align="left"> <a href="http://bbtk.ogu.edu.tr">Computer and Information Technology Club</a></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minecakir" alt="minecakir" /> </p>
 
 - 👑 I’m currently working on HTML, C++, C# 
 - 📫 How to reach me **cakirrmine00@gmail.com**
