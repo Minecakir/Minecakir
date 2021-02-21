@@ -17,6 +17,7 @@
 <p align="left">
  <h3 align="left"> 🤝Connect with me:</h3>
 <p align="left">
+ <a href="https://linkedin.com/in/mine-cakir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mine-cakir" height="30" width="40" /></a>
 <a href="https://medium.com/@minecca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minecca" height="30" width="40" /></a>
 </p>
 
