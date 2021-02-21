@@ -15,5 +15,8 @@
 
 </p><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=minecakir&show_icons=true" alt="minecakir" /> </p>
 <p align="left">
-<a href="https://linkedin.com/in/mine-cakir" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mine-cakir" height="40" width="40" /></a>
+ <h3 align="left"> 🤝Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@minecca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minecca" height="30" width="40" /></a>
 </p>
+
