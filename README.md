@@ -21,3 +21,7 @@
 <a href="https://medium.com/@minecca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@minecca" height="30" width="40" /></a>
 </p>
 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/2" alt="Recent Article 2">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@minecca/4" alt="Recent Article 4"> 
