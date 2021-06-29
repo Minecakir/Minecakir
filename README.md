@@ -13,7 +13,7 @@
 
 |  | Examples of Work |
 | --------- | ------------- |
-| <h4 align="left"> I actually improve myself in the fields of machine learning and artificial intelligence and I involved in projects on unmanned aerial vehicles.</h4>  | <img src="https://github.com/Minecakir/Gifs/blob/main/iha.gif" width="250px">                 |
+| <h4 align="left"> I actually improve myself in the fields of machine learning and artificial intelligence. I involved in projects on unmanned aerial vehicles.</h4>  | <img src="https://github.com/Minecakir/Gifs/blob/main/iha.gif" width="250px">                 |
 
   
 <p align="left">
