@@ -11,10 +11,6 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="40"/> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="40"/> </a> </p>
 
-|  | Examples of Work |
-| --------- | ------------- |
-| <h4 align="left"> I actually improve myself in the fields of machine learning and artificial intelligence. I involved in projects on unmanned aerial vehicles.</h4>  | <img src="https://github.com/Minecakir/Gifs/blob/main/iha.gif" width="250px">                 |
-
   
 <p align="left">
  <h3 align="left">:coffee: Get in Touch:</h3>
